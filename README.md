@@ -6,9 +6,10 @@ This repository contains a reinforcement learning project where an agent is crea
 
 To run this project, first, you need to install the OpenAI Gym library along with the Atari extension for the Blackjack-v0 environment. You can do this by running the following commands in your terminal:
 
+```python
 pip install gym
 pip install gym[atari]
-
+´´´
 
 ## The Environment
 
