@@ -9,7 +9,7 @@ To run this project, first, you need to install the OpenAI Gym library along wit
 ```python
 pip install gym
 pip install gym[atari]
-´´´
+```
 
 ## The Environment
 
