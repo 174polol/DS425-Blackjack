@@ -2,19 +2,19 @@
 
 This repository contains a reinforcement learning project where an agent is created using the temporal difference learning method. The environment used for this project is the Blackjack-v0 simulation environment provided by OpenAI Gym.
 
-Installation
+## Installation
 To run this project, first, you need to install the required packages. You can do this by running the following commands in your terminal:
 
 pip install -r requirements.txt
 
-Requirements
+## Requirements
 - numpy==1.21.0
 - matplotlib==3.4.2
 - gym==0.18.0
 - pandas==1.2.5
 - tqdm==4.61.1
 
-Project Structure
+## Project Structure
 The project is organized into the following directories:
 
 - src: Contains the main Python files and one MATLAB script for the project.
@@ -28,14 +28,14 @@ The project is organized into the following directories:
 
 
 
-Paper and Authors
+##  Paper and Authors
 The paper presenting the program and results can be found in the repository as well, titled DS425_Reinforcement_learning_assignment.pdf. This project was made by R. Callens and J. Weemaes.
 
-Usage
+## Usage
 To run the project, execute the Main.ipynb file using Jupyter Notebook or any compatible environment. Modify the code to experiment with different hyperparameters and parameters.
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
