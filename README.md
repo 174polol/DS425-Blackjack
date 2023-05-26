@@ -30,6 +30,7 @@ The project is organized into the following directories:
 
 ##  Paper and Authors
 The paper presenting the program and results can be found in the repository as well, titled DS425_Reinforcement_learning_assignment.pdf. This project was made by R. Callens and J. Weemaes.
+Every author had the same amount of added value to the project, so there is now 'who did what'-list. We worked together on everything.
 
 ## Usage
 To run the project, execute the Main.ipynb file using Jupyter Notebook or any compatible environment. Modify the code to experiment with different hyperparameters and parameters.
